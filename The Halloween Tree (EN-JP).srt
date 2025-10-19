@@ -343,12 +343,12 @@ your Halloween. Off to the hospital.
 67
 00:05:35,860 --> 00:05:38,360
 Something about appendicitis, don't worry."
-虫垂炎のことが書いてあるけど、心配しないで。」
+何だか虫垂炎のこと、でも安心して。」
 
 68
 00:05:38,430 --> 00:05:40,530
 'Signed, Pip.'
-『ピプより』
+『ピップより』
 
 69
 00:05:40,600 --> 00:05:41,860
@@ -629,6 +629,7 @@ Darn right, otherwise why would Pip lead us to it.
 00:09:13,260 --> 00:09:14,460
 Oh, yeah.
 ああ、そうだね。
+
 125
 00:09:26,960 --> 00:09:29,460
 'Oh, my gosh.'
@@ -1831,14 +1832,12 @@ Help!
 
 353
 00:25:15,630 --> 00:25:18,860
-Well, children. Seems we won't
-have time for dessert.
+Well, children. Seems we won't have time for dessert.
 さあ、子どもたち。デザートの時間はもう残ってなさそうだね。
 
 354
 00:25:35,660 --> 00:25:39,000
-Come on, Mr. Moundshroud,
-he's getting too far ahead.
+Come on, Mr. Moundshroud, he's getting too far ahead.
 さあ、マウンドシュラウドさん、彼は前に行きすぎているよ。
 
 355
@@ -1904,8 +1903,8 @@ Betcha, Pip sent this out here to show us the way.
 
 366
 00:26:40,500 --> 00:26:42,060
-It's got me.
-やられた。
+It's got me！
+つかまれた！
 
 367
 00:26:44,760 --> 00:26:45,960
@@ -2326,6 +2325,7 @@ Dogs, wild boars or worst of all... cats.
 00:35:04,130 --> 00:35:05,860
 Pip?
 ピップ？
+
 446
 00:35:10,660 --> 00:35:12,530
 'Black as night.'
@@ -3667,6 +3667,7 @@ Whoa! Whoa!
 00:56:53,430 --> 00:56:54,530
 - Ooh.
 - あっ。
+
 701
 00:56:54,600 --> 00:56:56,760
 - Ah.
