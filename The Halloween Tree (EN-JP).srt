@@ -1,37 +1,37 @@
 ﻿1
 00:00:51,900 --> 00:00:56,060
 It was a small town by a small river and a small lake.
-小さな川と小さなみずみに囲まれた小さな町でした。
+小さな川と小さな湖に囲まれた小さな町でした。
 
 2
 00:00:56,130 --> 00:00:59,160
 In a small northern part of a Midwest state.
-中西部の州のきたがわの小さなちいきです。
+中西部の州の北がわの小さな地域です。
 
 3
 00:00:59,230 --> 00:01:01,160
 There wasn't so much wilderness around
-そこにはあまりしぜんがありませんので
+そこにはあまり自然がありませんでした。
 
 4
 00:01:01,230 --> 00:01:03,230
 that you couldn't see the town.
-町が見えなくなることはありませんでした。
+町を見ることができませんでした。
 
 5
 00:01:03,300 --> 00:01:06,200
 On the other hand, there wasn't so much town around
-いっぽうで、しゅういに町があまりないので
+いっぽうで、周囲に町があまりなく
 
 6
 00:01:06,260 --> 00:01:10,160
 that you couldn't see and feel and touch the wilderness.
-大しぜんを見たり感じたりふれたり出来ないというわけもありません。
+大自然を見たり感じたりふれたりできなかったのです。
 
 7
 00:01:10,230 --> 00:01:13,360
 And the town was full of fences to walk on
-そして町が歩くためのさくや、
+そして町には歩くためのフェンスや、
 
 8
 00:01:13,430 --> 00:01:15,360
@@ -56,7 +56,7 @@ preparing for the greatest night of the year.
 12
 00:01:24,530 --> 00:01:28,100
 Better than Easter, better than Christmas.
-イースターよりも、クリスマスよりもたのしいです。
+イースターよりも、クリスマスよりも楽しいんです。
 
 13
 00:01:28,160 --> 00:01:29,230
@@ -106,7 +106,7 @@ Pip is really gonna love this.
 22
 00:02:11,860 --> 00:02:14,700
 'Sorry about using up all your gauze.'
-『全部のガーゼを使っちゃってごめんね』
+『ガーゼを全部使っちゃってごめんね』
 
 23
 00:02:14,760 --> 00:02:16,230
@@ -266,7 +266,7 @@ and eat more popcorn.
 52
 00:04:11,860 --> 00:04:15,330
 Pip, the greatest boy who ever lived.
-ピップ、しじょうもっともいだいな少年。
+ピップ、今までで最も偉大な少年だ。
 
 53
 00:04:23,530 --> 00:04:24,760
@@ -378,17 +378,17 @@ But we can't start Halloween without Pip.
 74
 00:05:51,860 --> 00:05:53,130
 It wouldn't be official.
-せいしきなものにならない。
+正式なものにならない。
 
 75
 00:05:53,200 --> 00:05:55,460
 There's a shortcut to the hospital.
-びょういんへのちかみちがあるよ。
+病院への近道があるよ。
 
 76
 00:05:55,530 --> 00:05:57,860
 Not, tha-that shortcut.
-あっ あのちかみちじゃないでくれ。
+あっ あの近道じゃないでくれ。
 
 77
 00:05:57,930 --> 00:06:02,360
@@ -568,12 +568,12 @@ Huh?
 112
 00:08:28,660 --> 00:08:32,060
 Woo! Now, you know, I never believe in haunted houses.
-うわっ！でもさ、ゆうれいやしきなんて信じたことないんだ。
+うわっ！でもさ、幽霊やしきなんて信じたことないんだ。
 
 113
 00:08:32,130 --> 00:08:35,900
 'But that sure looks like one haunted house to me.'
-『でも、あれはまちがえいなくゆうれいやしきに見えるよ』
+『でも、あれはまちがえいなく幽霊やしきに見えるよ』
 
 114
 00:08:38,300 --> 00:08:39,730
@@ -618,7 +618,7 @@ Yeah, Pip always gets the most candy.
 122
 00:09:07,600 --> 00:09:09,030
 But that house is haunted.
-でもあの家はゆうれいが出るんだ。
+でもあの家は幽霊が出るんだ。
 
 123
 00:09:09,100 --> 00:09:11,860
@@ -669,7 +669,7 @@ You!
 00:10:19,230 --> 00:10:22,500
 - Mm-hmm.
 - Okay then, I'll do it.
-- うん。
+- いやだ。
 - じゃあ、私がやるね。
 
 133
@@ -680,7 +680,7 @@ Oh, great, now you've done it, Jenny.
 134
 00:10:43,660 --> 00:10:45,830
 'Enter.'
-『入って』
+『入りなさい』
 
 135
 00:10:56,100 --> 00:10:57,630
@@ -819,7 +819,7 @@ Why a monster's face? Hm?
 161
 00:12:26,560 --> 00:12:30,060
 Why are you wearing a costume of a witch? Hm?
-なぜまじょのいしょうを着ているの？ん？
+なぜ魔女のいしょうを着ているの？ん？
 
 162
 00:12:30,130 --> 00:12:31,460
@@ -834,7 +834,7 @@ Oh, I'm wasting my breath.
 164
 00:12:34,900 --> 00:12:37,060
 All dressed up for All Hallows' Eve.
-ハロウィンのためにぜんぶかそうしてるんだね。
+ハロウィンのためにみんなは仮装してるんだね。
 
 165
 00:12:37,130 --> 00:12:40,130
@@ -909,7 +909,7 @@ Pip!
 00:13:13,900 --> 00:13:17,060
 - You-you're a ghost!
 - 'So, there you are.'
-- あっあなたはゆうれいだ！
+- あっあなたは幽霊だ！
 - 『ああ、そこにいたんだ。』
 
 179
@@ -977,7 +977,7 @@ Every nose was a weirder nose.
 191
 00:14:05,060 --> 00:14:08,730
 Every mouth smiled hideously in some new way.
-口はみんなきみょうに笑っていた。
+口はみんな変に笑っていた。
 
 192
 00:14:08,860 --> 00:14:11,330
@@ -1179,7 +1179,7 @@ So, he escaped.
 230
 00:16:50,860 --> 00:16:54,330
 Escaped, I might add, with a pumpkin that is my property.
-にげたんだけど、僕のしょゆうもののパンプキンと一緒にね。
+にげたんだけど、僕のざいさんのパンプキンと一緒にね。
 
 231
 00:16:55,230 --> 00:16:58,260
@@ -1204,8 +1204,7 @@ you bring him back right now.
 
 235
 00:17:07,500 --> 00:17:10,360
-'If only life were that easy.
-Hm.'
+'If only life were that easy. Hm.'
 『人生がそんなに簡単だったらな。んー。』
 
 236
@@ -1249,12 +1248,12 @@ Ha! What do you know about Halloween?
 243
 00:17:29,960 --> 00:17:32,460
 'Four meddlers come barging into my house.'
-『四人の干渉者が家に乱入してくるんだ』
+『四人のおせっかいやきが家に乱入してくるんだ』
 
 244
 00:17:32,530 --> 00:17:34,130
 'Blundering into my business.'
-『私の仕事に無茶に入り込むんだ』
+『私の仕事にかってに入り込むんだ』
 
 245
 00:17:34,200 --> 00:17:35,730
@@ -1264,7 +1263,7 @@ Not even knowing why.
 246
 00:17:35,860 --> 00:17:42,060
 You are dressed as a skeleton, witch, mummy or..
-君はスケルトン、まじょ、ミイラ、あるいは…
+君はスケルトン、魔女、ミイラ、あるいは…
 
 247
 00:17:42,130 --> 00:17:44,900
@@ -1377,7 +1376,7 @@ This road, mummy.
 00:18:47,760 --> 00:18:51,760
 'This fence, witch.
 This meadow, monster.'
-「このフェンス、まじょ。この草原、モンスター。」
+「このフェンス、魔女。この草原、モンスター。」
 
 269
 00:18:51,860 --> 00:18:53,400
@@ -1654,7 +1653,7 @@ O-oh, o-oh.
 321
 00:23:34,760 --> 00:23:37,200
 Ar-are those real life ghosts?
-あれは実際のゆうれいなの？
+あれは実際の幽霊なの？
 
 322
 00:23:37,260 --> 00:23:39,700
@@ -1699,7 +1698,7 @@ Ah, look there.
 329
 00:23:54,600 --> 00:23:56,960
 'That ghost, uh, spirit.'
-『あのゆうれい、えっと、スピリットだ』
+『あの幽霊、えっと、スピリットだ』
 
 330
 00:23:57,030 --> 00:23:59,530
@@ -1780,7 +1779,7 @@ So, what's he doing here?
 344
 00:24:50,260 --> 00:24:52,500
 Once a year, at the feast of the ghosts
-年に一度、ゆうれいたちのごちそう祭りで
+年に一度、幽霊たちのごちそう祭りで
 
 345
 00:24:52,560 --> 00:24:54,560
@@ -2361,7 +2360,7 @@ ever go trick-or-treat with you guys. Okay?
 454
 00:35:43,130 --> 00:35:45,660
 Peek-a-boo.
-いっくん！
+来たぞ！
 
 455
 00:35:48,730 --> 00:35:51,860
@@ -2371,7 +2370,7 @@ There was a hustle of brooms in the broom works.
 456
 00:35:51,900 --> 00:35:54,730
 An immense traffic jams of brooms for witches
-まじょたちのためのほうきが大渋滞。
+魔女たちのためのほうきが大渋滞。
 
 457
 00:35:54,860 --> 00:35:56,560
@@ -2426,7 +2425,7 @@ Feel them.
 467
 00:36:35,600 --> 00:36:36,930
 Broomsticks for witches.
-まじょ用のほうき棒。
+魔女用のほうき棒。
 
 468
 00:36:37,000 --> 00:36:38,330
@@ -2494,7 +2493,7 @@ Just put me back on the ground!
 480
 00:38:03,860 --> 00:38:06,300
 Witches have nothing to fear from their brooms.
-まじょはほうきから何も恐れることはない。
+魔女はほうきから何も恐れることはない。
 
 481
 00:38:06,360 --> 00:38:08,930
@@ -2535,17 +2534,17 @@ Pip! Was it Pip?
 488
 00:39:06,000 --> 00:39:07,760
 No. Witches! Everywhere!
-違う。まじょだ！ どこでも！
+違う。魔女だ！ どこでも！
 
 489
 00:39:07,860 --> 00:39:11,430
 Of course. It can't be Halloween without witches!
-もちろん、まじょなしでハロウィンはあり得ない！
+もちろん、魔女なしでハロウィンはあり得ない！
 
 490
 00:39:11,500 --> 00:39:15,460
 - Then they really were witches?
-- じゃあ本当にまじょだったの？
+- じゃあ本当に魔女だったの？
 - Well, yes and no.
 - うん、でもそうでもない。
 
@@ -2611,7 +2610,7 @@ But that was just a means to protect their privacy.
 502
 00:39:36,760 --> 00:39:40,260
 Ever wondered what the word 'witch' really means?
-「まじょ」という言葉の本当の意味を考えたことは？
+「魔女」という言葉の本当の意味を考えたことは？
 
 503
 00:39:40,330 --> 00:39:43,760
@@ -2646,7 +2645,7 @@ So, anyone too smart was called...
 509
 00:39:58,930 --> 00:40:00,060
 A witch!
-まじょと呼ばれた！
+魔女と呼ばれた！
 
 510
 00:40:00,130 --> 00:40:01,460
@@ -2703,12 +2702,12 @@ as fires burned everywhere.
 520
 00:40:45,830 --> 00:40:49,300
 'In the end all Europe was a cloud of witches' smoke.'
-『結局ヨーロッパ全体がまじょの煙の雲だった。』
+『結局ヨーロッパ全体が魔女の煙の雲だった。』
 
 521
 00:40:49,360 --> 00:40:51,230
 Anyone want to be a witch?
-誰かまじょになりたい？
+誰か魔女になりたい？
 
 522
 00:40:51,300 --> 00:40:53,230
@@ -2738,7 +2737,7 @@ Hold on, Pip!
 527
 00:41:38,530 --> 00:41:39,600
 Grab on!
-しっかり掴んで！
+しっかりつかんで！
 
 528
 00:41:41,130 --> 00:41:43,900
@@ -2805,7 +2804,7 @@ Which half-acre is he headed for?
 - Now, what?
 - 今、何だって？
 - I'm still a witch, right?
-- まだまじょだよね？
+- まだ魔女だよね？
 
 540
 00:42:18,230 --> 00:42:20,630
@@ -2855,7 +2854,7 @@ Protecting his pumpkin soul.
 549
 00:43:35,400 --> 00:43:37,360
 How observant of you, skeleton.
-観察力があるね、骸骨さん。
+観察力があるね、がいこつさん。
 
 550
 00:43:37,430 --> 00:43:40,260
@@ -2882,7 +2881,7 @@ I have a riddle for you, monster.
 554
 00:44:03,630 --> 00:44:06,330
 What's bigger and stronger than demons and witches?
-あくまやまじょよりも大きくて強いものは何だ？
+悪魔や魔女よりも大きくて強いものは何だ？
 
 555
 00:44:06,400 --> 00:44:09,860
@@ -2892,7 +2891,7 @@ A place so big, it holds back the night and nightmares?
 556
 00:44:09,930 --> 00:44:12,000
 What's bigger than devils and ghosts?
-あくまやゆうれいよりも大きいものは？
+悪魔や幽霊よりも大きいものは？
 
 557
 00:44:12,660 --> 00:44:14,200
@@ -2913,7 +2912,7 @@ Ah...
 00:44:19,760 --> 00:44:22,060
 - A cathedral?
 - Well done, monster.
-- たいせいどうか？
+- 大聖堂か？
 - よくやった、モンスター。
 
 561
@@ -2971,7 +2970,7 @@ So how come you're not going up to get him?
 571
 00:45:05,530 --> 00:45:09,330
 Well, simply because, there are some places
-実はね、あるばしょがあるからだ
+実はね、ある場所があるからだ
 
 572
 00:45:09,400 --> 00:45:12,030
@@ -3014,7 +3013,7 @@ tonight of all nights is still...
 578
 00:45:32,360 --> 00:45:36,860
 So why not finish building the cathedral, with your feet?
-足でたいせいどうを完成させたらどう？
+足で大聖堂を完成させたらどう？
 
 579
 00:45:38,560 --> 00:45:39,730
@@ -3122,12 +3121,12 @@ Can't you see what's missing?
 - Monster faces.
 - 怪物の顔。
 - You know, stone devils.
-- 石のあくまだよ。
+- 石の悪魔だよ。
 
 599
 00:48:19,360 --> 00:48:20,330
 Marble demons.
-大理石のあくま。
+大理石の悪魔。
 
 600
 00:48:22,360 --> 00:48:23,660
@@ -3161,12 +3160,12 @@ shivered in their stone sleep. And came awake.
 00:48:49,500 --> 00:48:53,000
 All the old beasts, all the old tales
 and unused demons put by, reared at the whistle
-古いけものや昔話、使われていないあくまたちが笛の音で起き上がり
+古いけものや昔話、使われていない悪魔たちが笛の音で起き上がり
 
 606
 00:48:53,060 --> 00:48:57,630
 and in spectral dust devils of propulsion, arrived.
-そしてゆうれいのような砂塵の渦で現れた。
+そして幽霊のような砂ぼこりの渦で現れた。
 
 607
 00:48:58,130 --> 00:49:01,200
@@ -3311,7 +3310,7 @@ You tried, Wally. All of you did.
 633
 00:51:06,530 --> 00:51:08,530
 Shut up! Shut up, will you?
-黙れ！ 黙ってくれる？
+黙って！ 黙ってくれる？
 
 634
 00:51:08,600 --> 00:51:12,100
@@ -3427,12 +3426,12 @@ I'll chalk his course to a final graveyard.
 655
 00:52:53,900 --> 00:52:55,960
 'Well, we've arrived children.'
-『さあ、みんなとうちゃくしたよ。』
+『さあ、みんなついたよ。』
 
 656
 00:52:56,030 --> 00:52:58,400
 'Our final destination.'
-『我々のさいしゅうもくてきちだ。』
+『我々の最終の目的地だ。』
 
 657
 00:52:59,460 --> 00:53:01,900
@@ -3497,7 +3496,7 @@ The Day of the Dead.
 669
 00:53:48,560 --> 00:53:50,860
 Back home, we'd never think going to a graveyard
-ハロウィンにぼちへ行くなんて、家では決して考えない。
+ハロウィンに墓地へ行くなんて、家では決して考えない。
 
 670
 00:53:50,860 --> 00:53:51,860
@@ -3539,8 +3538,8 @@ Whoa! The newspapers are full of bones!
 677
 00:54:34,660 --> 00:54:36,900
 Mexican Halloween's are sure better than ours.
-メキシコのハロウィンは確かにうちよりいいね。
-
+メキシコのハロウィンは確かにうちのよりいいね。
+ｎ
 678
 00:54:36,960 --> 00:54:40,600
 Huh! Pipkin! He must be around here someplace.
@@ -3802,7 +3801,7 @@ They're alive.
 728
 00:58:55,700 --> 00:58:58,860
 Tell me, why do you wear bones skeleton?
-教えて、なぜ骨の骸骨を身につけているの？
+教えて、なぜがいこつを身につけているの？
 
 729
 00:58:58,900 --> 00:59:00,130
@@ -4160,7 +4159,7 @@ Home!
 796
 01:03:06,260 --> 01:03:08,130
 But we saved him, didn't we?
-でもたすけたよね、そうだよね？
+でも私たちは彼を助けたよね、そうだよね？
 
 797
 01:03:08,200 --> 01:03:10,100
@@ -4170,7 +4169,7 @@ Will he live, Mr. Moundshroud?
 798
 01:03:10,160 --> 01:03:13,630
 Come! Our night journey is over!
-来て！ 夜の旅は終わった！
+来なさい！ 夜の旅は終わったんだ！
 
 799
 01:03:13,700 --> 01:03:17,660
@@ -4190,7 +4189,7 @@ His arms flung out, cut the air in slicing
 802
 01:03:23,260 --> 01:03:24,730
 grabs and swoops
-掴んで、すくい上げた
+つかんで、すくい上げた
 
 803
 01:03:24,860 --> 01:03:28,000
@@ -4310,7 +4309,7 @@ Day of the Dead.
 826
 01:05:05,300 --> 01:05:06,530
 Feast of ghosts.
-ゆうれいのごちそう祭り。
+幽霊のごちそう祭り。
 
 827
 01:05:06,600 --> 01:05:08,230
@@ -4374,7 +4373,7 @@ Hi, guys.
 - Pipkin!
 - ピップキン！
 - You are alive!
-- 生きてるんだ！
+- 君は生きてるんだ！
 
 839
 01:06:26,960 --> 01:06:28,530
@@ -4451,7 +4450,7 @@ in their eyelids and arms and feet.
 853
 01:07:13,400 --> 01:07:16,630
 The witch and mummy and monster and skeleton
-まじょとミイラと怪物と骸骨が
+魔女とミイラと怪物と骸骨が
 
 854
 01:07:16,700 --> 01:07:21,000
